@@ -3,7 +3,7 @@
 template <typename T, int N>
 class FixedArray {
 public:
-    T arr[N]{};
+    T arr[N];
 
     void set(int index, T value) {
         arr[index] = value;
@@ -32,3 +32,4 @@ int main() {
     }
     return 0;
 }
+
