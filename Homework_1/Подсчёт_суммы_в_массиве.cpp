@@ -20,3 +20,4 @@ int main() {
   std::cout << sumArray(arr3, size) << "\n";
   return 0;
 }
+

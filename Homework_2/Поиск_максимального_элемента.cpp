@@ -20,3 +20,4 @@ int main() {
  std::cout << findMax(1.4, 2.3, 3.8, 4.78, 9.2) << std::endl;
  return 0;
 }
+

@@ -19,3 +19,4 @@ int main() {
   std::cout << c << " " << d << std::endl;
   return 0;
 }
+

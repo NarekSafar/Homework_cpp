@@ -12,3 +12,4 @@ int main() {
  std::cout << makeSentence("AAAA", "BBBB", "CCCC") << std::endl;
  return 0;
 }
+
